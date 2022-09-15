@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_dayPlanner/static/css/main.fd649dcd.css",
+    "main.js": "/react_dayPlanner/static/js/main.0a88c50d.js",
+    "static/js/787.11e20981.chunk.js": "/react_dayPlanner/static/js/787.11e20981.chunk.js",
+    "index.html": "/react_dayPlanner/index.html",
+    "main.fd649dcd.css.map": "/react_dayPlanner/static/css/main.fd649dcd.css.map",
+    "main.0a88c50d.js.map": "/react_dayPlanner/static/js/main.0a88c50d.js.map",
+    "787.11e20981.chunk.js.map": "/react_dayPlanner/static/js/787.11e20981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd649dcd.css",
+    "static/js/main.0a88c50d.js"
+  ]
+}
